@@ -18,13 +18,4 @@ The documents were originally made available by this work:
   year={2012}
 }
 ```
-However, if you use this benchmark in your research, please cite:
 
-```latex
-@mastersthesis{dias_lapic2_20017,
-  title={Analysis of Automatic Semantic Annotation Approaches for Noisy Texts and Their Impacts on Similarity between Videos},
-  author={Dias, Laura Lima},
-  year={2017},
-  school={Universidade Federal de Juiz de Fora}
-}
-```
